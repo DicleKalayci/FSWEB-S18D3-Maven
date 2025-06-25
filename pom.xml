@@ -20,6 +20,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
+			<argLine>-Duser.language=en</argLine>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
